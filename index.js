@@ -1,6 +1,6 @@
 // src/index.js
-import Button from './Button';
-import InputText from './TextInput';
+import Button from './src/Button';
+import InputText from './src/TextInput';
 // Import other components here
 
 export {Button, InputText};
